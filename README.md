@@ -1,16 +1,10 @@
-## Hi there 👋
+✨"I'm studying programming with a focus on web development."😀
 
-<!--
-**CHUPAP11/CHUPAP11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨"I'm learning to code using Firebase and Replit."😇😉
 
-Here are some ideas to get you started:
+✨"I actively participate in open-source projects."😎🥳
 
-- 🔭 I’m currently working on proyects
-- 🌱 I’m currently learning Programacion
-- 👯 I’m looking to collaborate in a programming career.
-- 🤔 I’m looking for help with my teacher
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
--->
+✨"I'm working to enhance my skills in coding and databases."🤪🙈
+
+✨"I'm interested in building functional mobile applications."🧐🤔
+
